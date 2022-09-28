@@ -232,6 +232,7 @@ app.listen(process.env.POST || 3000, function(){
     console.log('server is running on port 3000');
 });
 
+// npm install -g nodemon
 // nodemon app.js
 // heroku --version
 // node --version
